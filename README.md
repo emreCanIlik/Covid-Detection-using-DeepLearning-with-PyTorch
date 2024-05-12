@@ -9,6 +9,12 @@ This project aims to contribute to the improvement of COVID-19 detection using C
 ## Dataset Description
 The dataset used in this project is sourced from the University of Montreal and consists of Chest X-ray images categorized into test and train sets. Each set further branches into three classes representing different conditions related to COVID-19 detection:
 
+## Methodology
+In this project, we employed the EfficientNet B1 deep learning model for COVID-19 detection. EfficientNet B1 is a convolutional neural network architecture known for its efficiency and effectiveness in image classification tasks, making it suitable for analyzing Chest X-ray images and detecting COVID-19 cases.
+
+![image](https://github.com/emreCanIlik/Covid-Detection-using-DeepLearning-with-PyTorch/assets/118285895/8f825c31-b03e-4ff5-b1bf-6f99a23ccb64)
+
+
 - **Covid**: X-ray images depicting COVID-19 cases.
 - **Normal**: X-ray images showing normal, healthy lungs.
 - **Viral Pneumonia**: X-ray images indicating viral pneumonia cases.
