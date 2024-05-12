@@ -29,5 +29,7 @@ We would like to express our gratitude to the University of Montreal for providi
 
 ## Inspiration
 This project is driven by the desire to contribute to the medical and research community's efforts in combating the COVID-19 pandemic. By sharing our work and encouraging collaboration, we hope to facilitate advancements in COVID-19 detection methodologies and ultimately contribute to the global fight against the virus.
+
+
 ![image](https://github.com/emreCanIlik/Covid-Detection-using-DeepLearning-with-PyTorch/assets/118285895/792e7218-61f3-47bf-94d1-d2d7ed14ea12)
 
