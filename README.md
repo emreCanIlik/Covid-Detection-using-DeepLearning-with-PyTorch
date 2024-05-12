@@ -15,9 +15,6 @@ In this project, we employed the EfficientNet B1 deep learning model for COVID-1
 ![image](https://github.com/emreCanIlik/Covid-Detection-using-DeepLearning-with-PyTorch/assets/118285895/8f825c31-b03e-4ff5-b1bf-6f99a23ccb64)
 
 
-- **Covid**: X-ray images depicting COVID-19 cases.
-- **Normal**: X-ray images showing normal, healthy lungs.
-- **Viral Pneumonia**: X-ray images indicating viral pneumonia cases.
 
 ### Directory Structure
 - **test/**
