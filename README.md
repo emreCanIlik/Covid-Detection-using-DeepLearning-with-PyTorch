@@ -7,18 +7,22 @@ This project aims to contribute to the improvement of COVID-19 detection using C
 
 
 ## Dataset Description
-The dataset used in this project is sourced from the University of Montreal and consists of Chest X-ray images categorized into test and train sets. Each set further branches into three classes representing different conditions related to COVID-19 detection.
+The dataset used in this project is sourced from the University of Montreal and consists of Chest X-ray images categorized into test and train sets. Each set further branches into three classes representing different conditions related to COVID-19 detection:
+
+- **Covid**: X-ray images depicting COVID-19 cases.
+- **Normal**: X-ray images showing normal, healthy lungs.
+- **Viral Pneumonia**: X-ray images indicating viral pneumonia cases.
 
 ### Directory Structure
 - **test/**
-  - **class1/**: Contains X-ray images belonging to class 1.
-  - **class2/**: Contains X-ray images belonging to class 2.
-  - **class3/**: Contains X-ray images belonging to class 3.
+  - **Covid/**: Contains X-ray images depicting COVID-19 cases.
+  - **Normal/**: Contains X-ray images showing normal, healthy lungs.
+  - **Viral Pneumonia/**: Contains X-ray images indicating viral pneumonia cases.
 
 - **train/**
-  - **class1/**: Contains X-ray images belonging to class 1.
-  - **class2/**: Contains X-ray images belonging to class 2.
-  - **class3/**: Contains X-ray images belonging to class 3.
+  - **Covid/**: Contains X-ray images depicting COVID-19 cases.
+  - **Normal/**: Contains X-ray images showing normal, healthy lungs.
+  - **Viral Pneumonia/**: Contains X-ray images indicating viral pneumonia cases.
 
 ## Acknowledgements
 We would like to express our gratitude to the University of Montreal for providing access to the Chest X-ray dataset, enabling us to undertake this research project.
