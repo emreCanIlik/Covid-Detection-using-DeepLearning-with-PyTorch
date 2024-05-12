@@ -3,6 +3,9 @@
 ## Overview
 This project aims to contribute to the improvement of COVID-19 detection using Chest X-rays through the implementation of deep learning techniques. By leveraging deep learning models, particularly using PyTorch, this project seeks to assist medical professionals and researchers in diagnosing COVID-19 cases more accurately and efficiently.
 
+![image](https://github.com/emreCanIlik/Covid-Detection-using-DeepLearning-with-PyTorch/assets/118285895/f7fa149c-dcf8-4c42-be28-6eedd440cdb0)
+
+
 ## Dataset Description
 The dataset used in this project is sourced from the University of Montreal and consists of Chest X-ray images categorized into test and train sets. Each set further branches into three classes representing different conditions related to COVID-19 detection.
 
